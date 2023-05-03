@@ -1,0 +1,3 @@
+# Network Intrusion Detection using Machine Learning
+
+This project contains models trained to classify flow data as benign or malignant. It also contains notebooks used to train them. JSON files containing performance metrics are added for reference. The data used is from [LUFlow][https://github.com/ruzzzzz/LUFlow]. The Data from 2021 was accumulated into one CSV  and was preprocessed. Both the Preprocessed data and the preprocessing notebook is included as well as a short script to extract all zip files included in the LUFlow repo.
